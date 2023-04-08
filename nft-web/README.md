@@ -1,4 +1,4 @@
-# shadow-nft-app
+# nft-web
 
 ## Project setup
 ```
