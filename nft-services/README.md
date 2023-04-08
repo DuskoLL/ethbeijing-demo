@@ -4,7 +4,7 @@ parent:
 -->
 
 <div align="center">
-  <h1> Fieryeyes </h1>
+  <h1> nft-service mono repo </h1>
 </div>
 
 <div align="center">
