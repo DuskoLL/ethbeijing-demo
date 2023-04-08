@@ -28,7 +28,7 @@ Fieryeyes is a project that integrates NFT data capture, NFT digital rule sortin
 - fe-law: The NFT configurable rule processing center is used for NFT rule data processing.
 - fe-scrapy: NFT data crawler service
 - fe-service: NFT service center, data cleaning storage service, providing internal RPC and openapi services
-- indexer: Synchronize blockchain data and do simple processing, provide RPC service to the service center to pull data and calculate and process data according to rules.
+- indexer: Synchronize evm(Ethereum, Scroll, Mantle, zksync, Arbitrum. Optimistim etc) blockchain data and do simple processing, provide RPC service to the service center to pull data and calculate and process data according to rules.
 - proxyd: proxyd.
 - proto: The rpc interface definition of each service module
 - savs: project script.
